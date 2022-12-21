@@ -1,2 +1,2 @@
-# Chapter 365: Close Handling Unit
+# Chapter 3.6.5: Close Handling Unit
 Workcenter enhancement on HU closing.
