@@ -1,2 +1,2 @@
-# ewmdevbook_365
-Custom Development: Close Handling Unit
+# Chapter 365: Close Handling Unit
+Workcenter enhancement on HU closing.
